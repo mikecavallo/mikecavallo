@@ -2,55 +2,52 @@
 
 **AI Developer & Full-Stack Engineer | 20 Years Building Software**
 
-I build AI systems that make phone calls, automate workflows, and solve real business problems. No fluff — just software that works.
+I build AI systems that make phone calls, automate workflows, and solve real business problems.
 
 ---
 
 ## 🚀 Featured Projects
 
-### [VirtueStage](https://github.com/mikecavallo/virtue-stage) - AI Virtual Home Staging
-**Saves real estate agents $280/photo vs traditional staging**
-- Full-stack React + Express + SQLite application
-- AI-powered staging using Gemini Vision (6 styles, 6 room types)
-- User auth, credit system, production-ready with Docker
-- Multi-angle project workflow with furniture DNA consistency
+### [Business Runs Better](https://github.com/mikecavallo/business-runs-better-experience) - Interactive Scroll Site · [Live demo](https://mikecavallo.github.io/business-runs-better-experience/)
+**A narrated, 13-section scroll experience with zero dependencies**
+- Single-file HTML/CSS/JS with canvas animation and synced voice narration
+- Narration pre-rendered locally with Kokoro TTS (`render-narration.py`)
+- Accessibility built in: WCAG AA contrast, `aria-live`, `inert`, reduced-motion support
+- Self-hosted fonts, WebP images, about 1 MB total
 
-### [BoatBuddy](https://github.com/mikecavallo/boat-buddy) - Boat Rental Platform  
-**Complete marina management solution**
-- Fleet management, online booking, admin dashboard
-- React + TypeScript frontend, Express + PostgreSQL backend
-- Dynamic pricing, maintenance tracking, customer portals
-- Docker + Fly.io deployment ready
+### [VirtueStage](https://github.com/mikecavallo/virtue-stage) - AI Virtual Home Staging
+**Stage an empty room photo in seconds instead of paying for physical staging**
+- Full-stack React + Express + SQLite application
+- AI staging using Gemini Vision (6 styles, 6 room types)
+- User auth, credit system, Docker build
+- Multi-angle project workflow with furniture consistency across shots
 
 ### [RingTask](https://github.com/mikecavallo/ringtask) - Phone Numbers for AI Agents
-**MCP-first API designed for the agent economy**
-- Temp/burner/monthly phone number tiers
-- Voice + SMS via Twilio/Telnyx integration  
-- Solana (SOL/USDC) and Stripe payment support
-- Built for AI agents, usable by humans
+**MCP-first API so agents can get a phone number and use it**
+- MCP server exposing number provisioning and SMS as agent tools
+- Twilio SMS, Retell AI voice agents (voice missions in progress)
+- Fastify + Drizzle backend, Stripe and Solana (SOL/USDC) payments
 
-### [Done By Morning](https://github.com/mikecavallo/done-by-morning) - Overnight Research Service
-**"Submit at 6pm. Wake up to answers."**
-- AI-powered research and analysis delivered overnight
-- $499-2,499 pricing with 85-99% gross margins
-- Complete go-to-market strategy and unit economics
-- Revenue projections: $78K-663K/year potential
+### [Jarvis GPU Transcription](https://github.com/mikecavallo/jarvis-gpu-transcription) - Self-Hosted Speech-to-Text Server
+**FastAPI + faster-whisper server for low-latency voice pipelines**
+- Fast (voice command) and high-accuracy transcription endpoints, Prometheus metrics
+- CUDA with automatic CPU fallback, optional API-key auth
+- Docker image, test suite, and CI
 
 ---
 
 ## 💼 Experience
 
 **20+ Years Full-Stack Development**
-- Built $750K/year e-commerce operation (2020-present)
-- Managed 80+ websites for real estate brokerage
-- 95% client satisfaction across multiple industries
+- Built a $750K/year e-commerce operation (2020-present)
+- Managed 80+ websites for a real estate brokerage
 - Custom IDX integrations, SEO, server administration
 
 **Current Focus: AI Development**
-- AI voice agents & phone automation (Twilio, Retell AI)
+- AI voice agents & phone automation (Twilio, Retell AI, Vapi)
 - Custom MCP servers & AI tool development
-- Full-stack AI applications (React, Node.js, TypeScript)
-- Business automation & workflow optimization
+- Full-stack AI applications (React, Node.js, TypeScript, Python)
+- Agentic coding with Claude Code
 
 ---
 
@@ -59,41 +56,23 @@ I build AI systems that make phone calls, automate workflows, and solve real bus
 **Languages & Frameworks:**
 - TypeScript, JavaScript, Node.js
 - React, Next.js, Tailwind CSS
-- Python, SQLite, PostgreSQL
+- Python, FastAPI, SQLite, PostgreSQL
 
 **AI & Automation:**
-- OpenAI, Anthropic Claude
-- Twilio, Retell AI (voice agents)
-- Gemini Vision, AI image generation
+- OpenAI, Anthropic Claude, Gemini Vision
+- Twilio, Retell AI, Vapi (voice agents)
+- faster-whisper, Kokoro TTS
 - MCP (Model Context Protocol)
 
 **Infrastructure & Deployment:**
-- Docker, Vercel, Fly.io
-- Stripe payments, Solana blockchain
+- Docker, Vercel, Fly.io, Railway, GitHub Actions
+- Stripe payments, Solana
 - WHM/cPanel, SEO optimization
-
----
-
-## 📊 Quick Stats
-
-- 🏗️ Built $750K annual revenue business from scratch
-- 📞 Voice agents handling 80% of customer calls automatically
-- 🏠 Virtual staging saving agents $280/photo (400% cost reduction)
-- ⚡ 20+ hour weekly automation eliminating manual work
-- 🎯 95% client satisfaction rate over 20 years
 
 ---
 
 ## 📫 Get In Touch
 
-Looking for:
-- AI development projects ($85-125/hr)
-- Voice agent implementations
-- Full-stack AI applications
-- Business automation consulting
+Open to AI engineering roles and voice agent / automation work.
 
 **Contact:** mikecavallo@gmail.com | [Twitter: @The_Guy_For_AI](https://twitter.com/The_Guy_For_AI)
-
----
-
-*"I don't build demos. I build solutions that make money."*
